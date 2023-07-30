@@ -16,7 +16,7 @@ Output: true
 
 ## Overview
 1. Initialize an empty object 'seen' that will keep track of elements that have already been encountered.
-2. Iterate over each character in the iunput string 'str'
+2. Iterate over each character in the input string 'str'
 3. In each iteration check if the character is in 'seen'
 4. If it is, return false
 5. If it's not, mark as seen in 'seen'
