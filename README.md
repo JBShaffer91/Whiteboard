@@ -13,3 +13,7 @@ This repository contains solutions for a whiteboarding exercise focused on funct
 ## Solutions
 
 The solutions for the problems above are all contained in `Whiteboard.md`. The solutions are written in JavaScript. Before each solution, there is a brief description of the problem and the approach I took to solve it.
+
+## Evaluation
+
+The `WbEval.md` file contains the assigned question that I was tasked to solve for the whiteboarding exercise. It includes a description of the problem, an overview of my approach, and a code snippet of my solution.
